@@ -22,10 +22,7 @@ $ git clone https://github.com/Kalebu/Python-Speech-Recognition-
 $ cd Python-Speech-Recognition-
 ```
 
-## Dependancies
 
-Now you would need to Install all the Dependecies to begin running
-playing the Examples 
 
 Linux users  
 ----------
