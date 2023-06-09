@@ -7,10 +7,6 @@ Python-Speech-Recognition
 This repository of basic examples on performing Speech Recognitionin Python using Google Speech Recognition Engine.
 
 
-The original article
--------------------------
-
-To see full article with explanation on source code from this repository **[Click here](https://kalebujordan.com/python-speech-recognition)**
 
 
 Getting started 🔧
